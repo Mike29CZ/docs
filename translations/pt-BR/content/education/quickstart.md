@@ -3,10 +3,11 @@ title: Início rápido para educadores do GitHub
 intro: 'Em cerca de 15 minutos, os professores podem começar com descontos, treinamentos e ferramentas para {% data variables.product.company_short %} e, em seguida, criar uma sala de aula para os alunos em um curso de desenvolvimento de software usando {% data variables.product.prodname_classroom %}.'
 allowTitleToDifferFromFilename: true
 versions:
-  free-pro-team: '*'
+  fpt: '*'
+shortTitle: QuickStart
 ---
 
-### Introdução
+## Introdução
 
 Os educadores que ministram um curso sobre desenvolvimento de software podem usar descontos, parcerias, treinamento e ferramentas a partir de {% data variables.product.prodname_education %} para ensinar efetivamente as habilidades relevantes aos alunos.
 
@@ -18,23 +19,23 @@ Neste guia, você começará com {% data variables.product.product_name %}, insc
 
 {% endtip %}
 
-### Criar contas em {% data variables.product.product_name %}
+## Criando contas em {% data variables.product.product_name %}
 
-Primeiro, você precisará criar uma conta de usuário grátis em {% data variables.product.product_name %}.
+First, you'll need to create a free personal account on {% data variables.product.product_name %}.
 
 {% data reusables.accounts.create-account %}
-1. Siga as instruções para criar sua conta de usuário grátis.
+1. Follow the prompts to create your free personal account.
 
-Depois de criar a sua conta de usuário, crie uma conta grátis de organização. Você usará esta conta da organização para criar e gerenciar salas de aula de {% data variables.product.prodname_classroom %}.
+After you create your personal account, create a free organization account. Você usará esta conta da organização para criar e gerenciar salas de aula de {% data variables.product.prodname_classroom %}.
 
-{% data reusables.user_settings.access_settings %}
-{% data reusables.user_settings.organizations %}
+{% data reusables.user-settings.access_settings %}
+{% data reusables.user-settings.organizations %}
 {% data reusables.organizations.new-organization %}
 4. Siga as instruções para criar uma organização grátis.
 
 Para obter mais informações, consulte "[Tipos de contas de {% data variables.product.prodname_dotcom %}](/github/getting-started-with-github/types-of-github-accounts)".
 
-### Solicitar um desconto de educador
+## Solicitando um desconto do educador
 
 Em seguida, você irá inscrever-se para receber descontos em serviços a partir de {% data variables.product.company_short %}. {% data reusables.education.educator-requirements %}
 
@@ -52,12 +53,12 @@ Em seguida, você irá inscrever-se para receber descontos em serviços a partir
 {% data reusables.education.plan-to-use-github %}
 {% data reusables.education.submit-application %}
 
-### Configurar {% data variables.product.prodname_classroom %}
+## Configurar {% data variables.product.prodname_classroom %}
 
-Com sua conta de usuário e conta de organização, você está pronto para dar os primeiros passos com {% data variables.product.prodname_classroom %}. {% data variables.product.prodname_classroom %} é grátis para usar. Você pode acompanhar e gerenciar as recomendações, avaliar o trabalho automaticamente e dar feedback aos seus alunos.
+With your personal account and organization account, you're ready to get started with {% data variables.product.prodname_classroom %}. {% data variables.product.prodname_classroom %} é grátis para usar. Você pode acompanhar e gerenciar as recomendações, avaliar o trabalho automaticamente e dar feedback aos seus alunos.
 
 {% data reusables.classroom.sign-into-github-classroom %}
-1. Para autorizar {% data variables.product.prodname_classroom %} para acessar a sua conta de usuário em {% data variables.product.prodname_dotcom %}, revise as informações e, em seguida, clique em **Autorizar {% data variables.product.prodname_classroom %}**. ![Botão "Autorizar {% data variables.product.prodname_classroom %}" para a conta do usuário](/assets/images/help/classroom/setup-click-authorize-github-classroom.png)
+1. To authorize {% data variables.product.prodname_classroom %} to access your personal account on {% data variables.product.prodname_dotcom %}, review the information, then click **Authorize {% data variables.product.prodname_classroom %}**. !["Authorize {% data variables.product.prodname_classroom %}" button for personal account](/assets/images/help/classroom/setup-click-authorize-github-classroom.png)
 1. Revise as informações. Para autorizar {% data variables.product.prodname_classroom %} a acessar sua conta de organização em {% data variables.product.prodname_dotcom %}, clique em **Conceder**. ![Botão "Conceder" para organização](/assets/images/help/classroom/setup-click-grant.png)
 
   {% tip %}
@@ -68,7 +69,7 @@ Com sua conta de usuário e conta de organização, você está pronto para dar 
 
 1. Clique em **Autorizar github**. ![Clique no botão "Autorizar" para a organização](/assets/images/help/classroom/setup-click-authorize-github.png)
 
-### Crie a sua sala de aula
+## Crie sua sala de aula
 
 {% data reusables.classroom.about-classrooms %}
 
@@ -76,7 +77,7 @@ Com sua conta de usuário e conta de organização, você está pronto para dar 
 1. Clique em **Criar sua primeira sala de aula** ou **Nova sala de aula**.
 {% data reusables.classroom.guide-create-new-classroom %}
 
-### Próximas etapas
+## Próximas etapas
 
 Você criou uma sala de aula e está pronto para enriquecer seu curso com {% data variables.product.product_name %} e {% data variables.product.prodname_classroom %}!  🎉
 
