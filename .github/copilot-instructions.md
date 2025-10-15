@@ -3,7 +3,7 @@
 This guide provides essential knowledge for AI agents working in the GitHub Docs codebase. Follow these conventions and workflows to be immediately productive.
 
 ## Architecture Overview
-- **Monorepo structure**: Contains Markdown content, custom site code, data, and reusable templates for [docs.github.com].
+- **Monorepo structure**: Contains Markdown content, custom site code, data, and reusable templates for [docs.github.com](https://docs.github.com).
 - **Major directories**:
   - `content/`: All English Markdown documentation. Uses YAML frontmatter for metadata (see below).
   - `components/`: React components for site UI.
