@@ -22,7 +22,7 @@ This guide provides essential knowledge for AI agents working in the GitHub Docs
 
 ## Developer Workflows
 - **Local development**:
-  - Requires Node.js v16.
+  - Requires Node.js v18 or v20 (LTS).
   - Install dependencies: `npm ci`
   - Build static assets: `npm run build`
   - Start server: `npm start` (serves at http://localhost:4000)
